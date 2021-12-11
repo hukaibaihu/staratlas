@@ -1,0 +1,23 @@
+/*! @name @videojs/http-streaming @version 2.9.2 @license Apache-2.0 */
+
+/*! @name aes-decrypter @version 3.1.2 @license Apache-2.0 */
+
+/*! @name pkcs7 @version 1.0.4 @license Apache-2.0 */
+
+/*!
+ * Programatically add the following
+ */
+
+/*!
+ * The buffer module from node.js, for the browser.
+ *
+ * @author   Feross Aboukhadijeh <feross@feross.org> <http://feross.org>
+ * @license  MIT
+ */
+
+/*! @name videojs-contrib-quality-levels @version 2.1.0 @license Apache-2.0 */
+
+/*! videojs-resolution-switcher for VideoJS Version 7+ - 2020-7-17
+ * Copyright (c) 2016 Kasper Moskwiak
+ * Modified by Bari Artz from Poko - https://facebook.com/pokonimeii
+ * Licensed under the Apache-2.0 license. */

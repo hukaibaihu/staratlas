@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2500 1400">
+	<defs>
+		<filter color-interpolation-filters="sRGB" x="-1.1%" y="-2.8%" width="102.3%" height="105.5%" filterUnits="objectBoundingBox" id="a">
+			<feGaussianBlur stdDeviation="16" in="SourceGraphic"/>
+		</filter>
+		<filter color-interpolation-filters="sRGB" x="-1.1%" y="-2.6%" width="102.1%" height="105.2%" filterUnits="objectBoundingBox" id="b">
+			<feGaussianBlur stdDeviation="15" in="SourceGraphic"/>
+		</filter>
+		<filter color-interpolation-filters="sRGB" x="-.8%" y="-1.9%" width="101.6%" height="103.8%" filterUnits="objectBoundingBox" id="c">
+			<feGaussianBlur stdDeviation="11" in="SourceGraphic"/>
+		</filter>
+	</defs>
+	<g fill="none" fill-rule="evenodd">
+		<path d="M1170 1983c1161.13 0 2102.412-389.96 2102.412-871S2331.13 241 1170 241C8.87 241-932.412 630.96-932.412 1112S8.87 1983 1170 1983z" fill="#3C659D" filter="url(#a)"/>
+		<path d="M1340 1985c1161.13 0 2102.412-389.96 2102.412-871S2501.13 243 1340 243C178.87 243-762.412 632.96-762.412 1114S178.87 1985 1340 1985z" fill="#E3704E" filter="url(#b)"/>
+		<path d="M1250 1988c1161.13 0 2102.412-389.96 2102.412-871S2411.13 246 1250 246C88.87 246-852.412 635.96-852.412 1117S88.87 1988 1250 1988z" fill="#102434" filter="url(#c)"/>
+	</g>
+</svg>
