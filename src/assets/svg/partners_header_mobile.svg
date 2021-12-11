@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" viewBox="0 0 2500 1840">
+	<defs>
+		<radialGradient cx="3.832%" cy="-13.913%" fx="3.832%" fy="-13.913%" r="180.448%" gradientTransform="matrix(.46464 .69786 -.45271 .71624 -.042 -.066)" id="a">
+			<stop stop-color="#F5F1EB" offset="0%"/>
+			<stop stop-color="#C1CBDC" offset="27.369%"/>
+			<stop stop-color="#7D92B6" offset="57.595%"/>
+			<stop stop-color="#60779D" offset="78.588%"/>
+			<stop stop-color="#243F6B" offset="100%"/>
+		</radialGradient>
+		<filter color-interpolation-filters="sRGB" x="-2.3%" y="-3.5%" width="104.5%" height="107%" filterUnits="objectBoundingBox" id="b">
+			<feGaussianBlur stdDeviation="20" in="SourceGraphic"/>
+		</filter>
+	</defs>
+	<path d="M-70-40h2640v1542.78c-345.745 113.228-785.745 169.842-1320 169.842s-974.255-56.614-1320-169.841V-40z" fill="url(#a)" filter="url(#b)" fill-rule="evenodd"/>
+</svg>
